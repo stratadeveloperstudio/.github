@@ -1,6 +1,6 @@
 ## Strata Developer Studio
 
-Evaluate, test and design
+Evaluate, test and design.  
 The Strata Developer Studio is a cloud-connected development software which provides a seamless, personalized and secure environment for engineers.
 
 
