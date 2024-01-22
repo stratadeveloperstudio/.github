@@ -1,5 +1,9 @@
 ## Strata Developer Studio
 
+DEPRECATED. THE REFERENCED REPOS ARE NOW PRIVATE, THIS ORGANIZATION WILL BE ARCHIVED. 
+
+--------------
+
 Evaluate, test and design.  
 The Strata Developer Studio is a cloud-connected development software which provides a seamless, personalized and secure environment for engineers.
 
